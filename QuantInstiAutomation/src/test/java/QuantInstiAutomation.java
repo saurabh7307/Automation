@@ -56,7 +56,7 @@ public class QuantInstiAutomation {
 
     @BeforeSuite
     public void setUp() {
-        htmlReporter = new ExtentHtmlReporter("QunatInstiAutomation.html");
+        htmlReporter = new ExtentHtmlReporter("QuantInstiAutomation.html");
         // create ExtentReports and attach reporter(s)
         report = new ExtentReports();
         report.attachReporter(htmlReporter);
