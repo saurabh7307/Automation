@@ -25,10 +25,10 @@
 2. You can use any version of Ubuntu, but I recommend you to use at least Ubuntu 16.04 LTS. <br>
 3. You can use any IDE like Eclipse.<br>
 <br>
+<br/>
+**Answer of section two:-** <br>Google sheet link:- https://docs.google.com/document/d/12_lHMCaaxm3qxO8sMwWZ9us0gWfWM443LMZjtQhQ8DI/edit. <br>
 <br>
-**Answer of section two** (Google sheet link:- https://docs.google.com/document/d/12_lHMCaaxm3qxO8sMwWZ9us0gWfWM443LMZjtQhQ8DI/edit). <br>
-<br>
-**Answer of section three** (Program link:- https://github.com/saurabh7307/Automation/blob/master/QuantInstiAutomation/src/test/java/GetAdditionOfMultiple.java). <br>
+**Answer of section three:-** <br> Program link:- https://github.com/saurabh7307/Automation/blob/master/QuantInstiAutomation/src/test/java/GetAdditionOfMultiple.java. <br>
 <br>
 
 
